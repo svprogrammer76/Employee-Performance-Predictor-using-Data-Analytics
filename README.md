@@ -188,7 +188,3 @@ Example staged milestones: `Add seeded synthetic HR dataset`; `Add EDA and valid
 ## Future extensions
 
 Use a documented public dataset only after checking its license, provenance, representativeness, target definition, and permitted use. Other learning extensions include temporal validation, model cards, calibration, subgroup error analysis, drift monitoring, a prediction API, and an attrition model. Deep learning is not automatically an improvement for small tabular data. Any real employment use requires expert legal, privacy, security, labor, and fairness review.
-
-## License
-
-Choose a license before publishing. Add attribution and dataset licensing details if you later use any external data.
