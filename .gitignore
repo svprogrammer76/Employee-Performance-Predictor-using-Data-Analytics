@@ -1,0 +1,13 @@
+.venv/
+.runtime_packages/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/*.csv
+!data/.gitkeep
+models/*.joblib
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+!outputs/.gitkeep
